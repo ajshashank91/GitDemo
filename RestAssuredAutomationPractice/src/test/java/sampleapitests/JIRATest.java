@@ -117,6 +117,11 @@ public class JIRATest {
 	public void testJIRAcreateIssue7() {
 		System.out.println("Develop branch:Test7-Added for learning git-Git demo");
 	}
+	
+	@Test(priority = 8)
+	public void testJIRAcreateIssue8() {
+		System.out.println("Develop branch:Test7-Added for learning git-Git space");
+	}
 }
 
 //http://localhost:8080/secure/SetupMode!default.jspa
