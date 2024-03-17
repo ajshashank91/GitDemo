@@ -97,6 +97,16 @@ public class JIRATest {
 	public void testJIRAcreateIssue3() {
 		System.out.println("Test3-Added for leaning git-Git demo");
 	}
+	
+	@Test(priority = 4)
+	public void testJIRAcreateIssue4() {
+		System.out.println("Test4-Added for leaning git-Git demo");
+	}
+	
+	@Test(priority = 5)
+	public void testJIRAcreateIssue5() {
+		System.out.println("Test5-Added for leaning git-Git demo");
+	}
 }
 
 //http://localhost:8080/secure/SetupMode!default.jspa
