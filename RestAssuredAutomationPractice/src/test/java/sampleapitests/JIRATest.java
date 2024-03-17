@@ -110,12 +110,12 @@ public class JIRATest {
 	
 	@Test(priority = 6)
 	public void testJIRAcreateIssue6() {
-		System.out.println("Develop branch:Test6-Added for leaning git-Git demo");
+		System.out.println("Develop branch:Test6-Added for leraning git-Git demo");
 	}
 	
 	@Test(priority = 7)
 	public void testJIRAcreateIssue7() {
-		System.out.println("Develop branch:Test7-Added for leaning git-Git demo");
+		System.out.println("Develop branch:Test7-Added for learning git-Git demo");
 	}
 }
 
