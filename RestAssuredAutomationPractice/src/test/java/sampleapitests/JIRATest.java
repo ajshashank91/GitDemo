@@ -88,6 +88,15 @@ public class JIRATest {
 		Assert.assertEquals(actualcomment, comment);
 	}
 
+	@Test(priority = 2)
+	public void testJIRAcreateIssue2() {
+		System.out.println("Test2-Added for leaning git-Git demo");
+	}
+	
+	@Test(priority = 3)
+	public void testJIRAcreateIssue3() {
+		System.out.println("Test3-Added for leaning git-Git demo");
+	}
 }
 
 //http://localhost:8080/secure/SetupMode!default.jspa
