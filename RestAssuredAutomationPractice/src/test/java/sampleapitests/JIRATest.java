@@ -90,22 +90,37 @@ public class JIRATest {
 
 	@Test(priority = 2)
 	public void testJIRAcreateIssue2() {
-		System.out.println("Test2-Added for leaning git-Git demo");
+		System.out.println("Test2-Added for learning git-Git demo");
 	}
 	
 	@Test(priority = 3)
 	public void testJIRAcreateIssue3() {
-		System.out.println("Test3-Added for leaning git-Git demo");
+		System.out.println("Test3-Added for learning git-Git demo");
 	}
 	
 	@Test(priority = 4)
 	public void testJIRAcreateIssue4() {
-		System.out.println("Test4-Added for leaning git-Git demo");
+		System.out.println("Test4-Added for learning git-Git demo");
 	}
 	
 	@Test(priority = 5)
 	public void testJIRAcreateIssue5() {
-		System.out.println("Test5-Added for leaning git-Git demo");
+		System.out.println("Test5-Added for learning git-Git demo");
+	}
+
+	@Test(priority = 6)
+	public void testJIRAcreateIssue6() {
+		System.out.println("Develop branch:Test6-Added for learning git-Git demo");
+	}
+	
+	@Test(priority = 7)
+	public void testJIRAcreateIssue7() {
+		System.out.println("Develop branch:Test7-Added for learning git-Git demo");
+	}
+	
+	@Test(priority = 8)
+	public void testJIRAcreateIssue8() {
+		System.out.println("Develop branch:Test7-Added for learning git-Git space");
 	}
 }
 
